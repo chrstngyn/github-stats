@@ -1,3 +1,5 @@
+added new text to generate new stat images
+
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
 <a href="https://github.com/jstrieb/github-stats">
